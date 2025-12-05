@@ -1,0 +1,17 @@
+{
+  "name": "Finanças pessoais para iniciantes",
+  "short_name": "Finanças pes",
+  "description": "Leitor de eBook para Finanças pessoais para iniciantes",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#4F46E5",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
